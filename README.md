@@ -1,4 +1,4 @@
-# casino121bot
+# casino121bot (inactive)
 The fun bot, which represents classical casino roulette 
 
 https://t.me/casino121bot
