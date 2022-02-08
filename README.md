@@ -1,5 +1,5 @@
 # casino121bot (inactive)
-The fun bot, which represents classical casino roulette 
+The fun bot, which represents classical casino roulette. That was fun project, so I didn't divide it into files
 
 https://t.me/casino121bot
 
